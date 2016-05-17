@@ -1,4 +1,4 @@
-def Ex1090.API.Events do
+defmodule Ex1090.API.Events do
   import Ex1090.API.Base
   import Ex1090.Parser
 
