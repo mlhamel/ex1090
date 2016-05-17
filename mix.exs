@@ -21,7 +21,7 @@ defmodule Ex1090.Mixfile do
 
   defp deps do
     [
-      {:httpoison, "~> 0.7.4"},
+      {:httpoison, "~> 0.8.0"},
       {:poison, "~> 1.5"},
     ]
   end
